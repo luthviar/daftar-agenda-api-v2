@@ -1,182 +1,62 @@
 [
   {
-    "userId": 1,
+    
     "id": 1,
     "judul": "delectus aut autem",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 2,
     "judul": "quis ut nam facilis et officia qui",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 3,
     "judul": "fugiat veniam minus",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 4,
     "judul": "et porro tempora",
     "selesai": true
   },
   {
-    "userId": 1,
+    
     "id": 5,
     "judul": "laboriosam mollitia et enim quasi adipisci quia provident illum",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 6,
     "judul": "qui ullam ratione quibusdam voluptatem quia omnis",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 7,
     "judul": "illo expedita consequatur quia in",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 8,
     "judul": "quo adipisci enim quam ut ab",
     "selesai": true
   },
   {
-    "userId": 1,
+    
     "id": 9,
     "judul": "molestiae perspiciatis ipsa",
     "selesai": false
   },
   {
-    "userId": 1,
+    
     "id": 10,
     "judul": "illo est ratione doloremque quia maiores aut",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 11,
-    "judul": "vero rerum temporibus dolor",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 12,
-    "judul": "ipsa repellendus fugit nisi",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 13,
-    "judul": "et doloremque nulla",
-    "selesai": false
-  },
-  {
-    "userId": 1,
-    "id": 14,
-    "judul": "repellendus sunt dolores architecto voluptatum",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 15,
-    "judul": "ab voluptatum amet voluptas",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 16,
-    "judul": "accusamus eos facilis sint et aut voluptatem",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 17,
-    "judul": "quo laboriosam deleniti aut qui",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 18,
-    "judul": "dolorum est consequatur ea mollitia in culpa",
-    "selesai": false
-  },
-  {
-    "userId": 1,
-    "id": 19,
-    "judul": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
-    "selesai": true
-  },
-  {
-    "userId": 1,
-    "id": 20,
-    "judul": "ullam nobis libero sapiente ad optio sint",
-    "selesai": true
-  },
-  {
-    "userId": 2,
-    "id": 21,
-    "judul": "suscipit repellat esse quibusdam voluptatem incidunt",
-    "selesai": false
-  },
-  {
-    "userId": 2,
-    "id": 22,
-    "judul": "distinctio vitae autem nihil ut molestias quo",
-    "selesai": true
-  },
-  {
-    "userId": 2,
-    "id": 23,
-    "judul": "et itaque necessitatibus maxime molestiae qui quas velit",
-    "selesai": false
-  },
-  {
-    "userId": 2,
-    "id": 24,
-    "judul": "adipisci non ad dicta qui amet quaerat doloribus ea",
-    "selesai": false
-  },
-  {
-    "userId": 2,
-    "id": 25,
-    "judul": "voluptas quo tenetur perspiciatis explicabo natus",
-    "selesai": true
-  },
-  {
-    "userId": 2,
-    "id": 26,
-    "judul": "aliquam aut quasi",
-    "selesai": true
-  },
-  {
-    "userId": 2,
-    "id": 27,
-    "judul": "veritatis pariatur delectus",
-    "selesai": true
-  },
-  {
-    "userId": 2,
-    "id": 28,
-    "judul": "nesciunt totam sit blanditiis sit",
-    "selesai": false
-  },
-  {
-    "userId": 2,
-    "id": 29,
-    "judul": "laborum aut in quam",
-    "selesai": false
-  },
-  {
-    "userId": 2,
-    "id": 30,
-    "judul": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
     "selesai": true
   }
 ]
